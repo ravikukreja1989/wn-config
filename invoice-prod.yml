@@ -2,7 +2,7 @@ build:
   version: "1.0"
 
 invoice:
-  message: "Welcome to EazyBank invoice related prod APIs "
+  message: "Welcome to EazyBank invoice related production APIs "
   contactDetails:
     name: "Pelias Sudhir - Product Owner"
     email: "pelias@eazybank.com"
