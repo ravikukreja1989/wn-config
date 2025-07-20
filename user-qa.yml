@@ -1,8 +1,8 @@
 build:
   version: "2.0"
 
-accounts:
-  message: "Welcome to EazyBank accounts related QA APIs "
+user:
+  message: "Welcome to EazyBank user related QA APIs "
   contactDetails:
     name: "Smitha Ray - QA Lead"
     email: "smitha@eazybank.com"
