@@ -1,8 +1,8 @@
 build:
   version: "3.0"
 
-loans:
-  message: "Welcome to EazyBank loans related local APIs "
+invoice:
+  message: "Welcome to EazyBank invoice related local APIs "
   contactDetails:
     name: "Amaal Grega - Developer"
     email: "amaal@eazybank.com"
